@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css'
 import 'tailwindcss/tailwind.css' // Import Tailwind CSS
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDiscord } from '@fortawesome/free-brands-svg-icons'
